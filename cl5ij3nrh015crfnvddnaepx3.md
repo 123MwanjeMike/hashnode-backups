@@ -30,6 +30,6 @@ Before moving to the cloud, you might want to first confirm if this is a decisio
 2.  You have security problems on-premises. If there exist security exploits while still on-premise, chances are moving to cloud will not fix these. You need to fix risks before exposing the same to 7.8 billion potential attackers.
 3.  Your organization culture is not ready for a move to cloud. As an IT leader, you need to support personnel at your organization to deal with the “as is” and the “to be” states of your cloud application before making the shift.
 
-#### Conclusion
+### Conclusion
 
 Cloud computing is an evolving potential with even newer technologies that are meant to enable us do what we did yesterday better and faster today and tomorrow.
