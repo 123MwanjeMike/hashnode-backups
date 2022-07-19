@@ -30,6 +30,6 @@ Previously, I had fallen into the vice merely creating a fancy to do list and ha
 
 One trick to achieving your goals is committing to your plan and holding yourself accountable. However, it is also possible that you plan and things don’t go as planned because of factors out of your control. It is okay if this happens. Sometimes things just don’t work out but it is better to plan and be intentional with your goals and life than sitting back and leaving it all to fate.
 
-If you liked this post, be sure to leave a clap or comment. It indicates that this was helpful and encourages me to share more of such.
+If you liked this post, be sure to leave a like or comment. It indicates that this was helpful and encourages me to share more of such.
 
 *Cheers!*
