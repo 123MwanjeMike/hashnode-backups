@@ -27,6 +27,7 @@ Tech Twitter is where all the developers hang out. If you have not heard of it b
 ### Conclusion
 
 Choosing the right blog platform is not easy. It depends on your objective and how involved you want to be with the platform. However, if you are starting out and are looking to build an organic audience, then I would suggest DEV. If you are looking for a platform that provides greater visibility and a wider audience as a thought leader, then Medium the best choice for you. While if you want to take charge of your blogging process and build a more niche audience, then Hashnode would be the best platform for you. Finally, if you are looking for a platform to constantly keep your audience engaged, then Tech Twitter is the place to be.
+The good news is that you can always use canonical urls to republish your blogs to leverage what the other platforms have to offer.
 
 Do you have any thoughts on what I just shared? Let me know in the comments below! I would also love to hear from you on what your favourite blogging platform and why?
 
