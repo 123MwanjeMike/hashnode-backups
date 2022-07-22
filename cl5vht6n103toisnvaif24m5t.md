@@ -18,7 +18,7 @@ Medium provides a greater visibility for content than DEV with a much more diver
 
 #### Hashnode
 
-Hashnode is relatively new to the market compared to other blogging platforms. However, it has risen quickly to become popular with developers because it offers all the features that tech bloggers require. I had initially not considered Hashnode as it is somewhat similar to DEV. Both are tailored specifically for the developer community and also have a similar markdown support (although Hashnode’s offerings are far superior to those available on DEV). Hashnode however has smaller audiences than DEV and Medium and as a result, you may not get as much attention. Also with Hashnode, you will need to put in extra SEO efforts in order to get your article noticed by Google or other major search engines.
+Hashnode is relatively new to the market compared to other blogging platforms. However, it has risen quickly to become popular with developers because it offers all the features that tech bloggers require. I had initially not considered Hashnode as it is somewhat similar to DEV. Both are tailored specifically for the developer community and also have a similar markdown support (although Hashnode’s offerings are far superior to those available on DEV). Hashnode however has smaller audiences than DEV and Medium and as a result, you may not get as much attention.
 
 #### Tech Twitter
 
