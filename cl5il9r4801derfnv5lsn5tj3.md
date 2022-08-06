@@ -1,12 +1,12 @@
 ## AutoIdle cuts your Heroku bill by auto-putting your staging and review apps to sleep
 
-From simple to complex applications, Heroku stands out as a deployment choice for many developers. This is because with Heroku, getting an application up and running is a very simple procedure that abstracts the underlying infrastructure and its scaling needs. However, with more applications running on Heroku is a growing bill even when no traffic is being served. [AutoIdle](https://medium.com/r/?url=https%3A%2F%2Fautoidle.com%2F) is a Heroku add-on  that helps cut your Heroku bill by automatically putting your staging and review apps to sleep when you don't need them. In this article, we shall see how we can install AutoIdle on a Heroku app and review apps in a pipeline and observe how much we save.
+From simple to complex applications, Heroku stands out as a deployment choice for many developers. This is because with Heroku, getting an application up and running is a very simple procedure that abstracts the underlying infrastructure and its scaling needs. However, with more applications running on Heroku is a growing bill even when no traffic is being served. [AutoIdle](https://autoidle.com/) is a Heroku add-on  that helps cut your Heroku bill by automatically putting your staging and review apps to sleep when you don't need them. In this article, we shall see how we can install AutoIdle on a Heroku app and review apps in a pipeline and observe how much we save.
 
 ## How does AutoIdle work?
-[AutoIdle](https://medium.com/r/?url=https%3A%2F%2Fautoidle.com%2F) typically puts your apps to sleep after 30mins of inactivity and gets them up and running in under 10seconds of a new request. This way, you are not charged for the time the your apps are up but idle. With that stated…
+[AutoIdle](https://autoidle.com/) typically puts your apps to sleep after 30mins of inactivity and gets them up and running in under 10seconds of a new request. This way, you are not charged for the time the your apps are up but idle. With that stated…
 
 ### …let's get our hands dirty.
-Let's create an app called *autoidle-saving* in a  Heroku pipeline. Starting from the *start* branch of [this repository](https://medium.com/r/?url=https%3A%2F%2Fgithub.com%2F123MwanjeMike%2Fautoidle-saving), we shall incrementally build our application to the state in the *main* branch; so fork the repository and go [here](https://medium.com/r/?url=https%3A%2F%2Fdashboard.heroku.com%2Fpipelines%2Fnew) to create a Heroku pipeline. You will be presented with the screen below.
+Let's create an app called *autoidle-saving* in a  Heroku pipeline. Starting from the *start* branch of [this repository](https://github.com/123MwanjeMike/autoidle-saving), we shall incrementally build our application to the state in the *main* branch; so fork the repository and go [here](https://medium.com/r/?url=https%3A%2F%2Fdashboard.heroku.com%2Fpipelines%2Fnew) to create a Heroku pipeline. You will be presented with the screen below.
 
 ![The newly created Heroku pipeline. It's name is saving0with-autoidle](https://cdn.hashnode.com/res/hashnode/image/upload/v1657654638319/_RwlnL1ch.png)
 
