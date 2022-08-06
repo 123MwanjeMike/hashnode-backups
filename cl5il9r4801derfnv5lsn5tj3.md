@@ -6,7 +6,7 @@ From simple to complex applications, Heroku stands out as a deployment choice fo
 [AutoIdle](https://autoidle.com/) typically puts your apps to sleep after 30mins of inactivity and gets them up and running in under 10seconds of a new request. This way, you are not charged for the time the your apps are up but idle. With that stated…
 
 ### …let's get our hands dirty.
-Let's create an app called *autoidle-saving* in a  Heroku pipeline. Starting from the *start* branch of [this repository](https://github.com/123MwanjeMike/autoidle-saving), we shall incrementally build our application to the state in the *main* branch; so fork the repository and go [here](https://medium.com/r/?url=https%3A%2F%2Fdashboard.heroku.com%2Fpipelines%2Fnew) to create a Heroku pipeline. You will be presented with the screen below.
+Let's create an app called *autoidle-saving* in a  Heroku pipeline. Starting from the *start* branch of [this repository](https://github.com/123MwanjeMike/autoidle-saving), we shall incrementally build our application to the state in the *main* branch; so fork the repository and go [here](https://dashboard.heroku.com/pipelines/new) to create a Heroku pipeline. You will be presented with the screen below.
 
 ![The newly created Heroku pipeline. It's name is saving0with-autoidle](https://cdn.hashnode.com/res/hashnode/image/upload/v1657654638319/_RwlnL1ch.png)
 
@@ -15,7 +15,7 @@ Now select the *Settings* tab and under the *Connect to GitHub* option, search f
 ![Connecting the pipeline to a GitHub repository](https://cdn.hashnode.com/res/hashnode/image/upload/v1657654640704/5k6hDtPF5.png)
 
 After connecting the repository, the *Review apps* option should now be available. Click *Enable* to have review apps for Pull Requests.
-**Note:** Check the *Wait for CI to pass* option if you want HerokuCI to run your tests before deploying to the review app. There is a detailed article on Heroku CI and how to use it [here](https://medium.com/r/?url=https%3A%2F%2Fdev.to%2Fmwanjemike%2Fbuild-a-ci-cd-pipeline-with-heroku-ci-3de9) that you can check out if you want to learn more about HerokuCI specifically.
+**Note:** Check the *Wait for CI to pass* option if you want HerokuCI to run your tests before deploying to the review app. There is a detailed article on Heroku CI and how to use it [here](https://blog.mikemwanje.dev/build-a-cicd-pipeline-with-heroku-ci) that you can check out if you want to learn more about HerokuCI specifically.
 
 ![Enabling review apps for the pipeline](https://cdn.hashnode.com/res/hashnode/image/upload/v1657654642316/8tjxfqHO7.png)
 
@@ -66,7 +66,7 @@ Let us try to access our staging app in the browser.
 
 ![Develop branch successfully deployed](https://cdn.hashnode.com/res/hashnode/image/upload/v1657654663827/o4K4x0N80.png)
 
-We are now going to install AutoIdle on the staging app so that it is automatically put to sleep. So if you already [downloaded and installed](https://medium.com/r/?url=https%3A%2F%2Fdevcenter.heroku.com%2Farticles%2Fheroku-cli%23download-and-install) Heroku CLI on your computer, go to your terminal and login.
+We are now going to install AutoIdle on the staging app so that it is automatically put to sleep. So if you already [downloaded and installed](https://devcenter.heroku.com/articles/heroku-cli#download-and-install) Heroku CLI on your computer, go to your terminal and login.
 
 ```
 $ heroku login
@@ -180,7 +180,7 @@ We can see that all our apps are running and we  don't have any available saving
 We can see that both our staging and review applications were automatically stopped without us having to click any button.
 
 ## Conclusion
-With cloud computing, every extra second your application is running counts and you want to be as lean as possible. In this tutorial, we only used AutoIdle on two applications, but imagine how much you could save with a large application with multiple contributors and new PRs created by the minute, each with a new review app. The cost of having apps running while not actively in use can be unnecessarily large and overwhelming. I hope [AutoIdle](https://medium.com/r/?url=https%3A%2F%2Fautoidle.com%2F) is a tool you and your organization can leverage to reduce costs.
+With cloud computing, every extra second your application is running counts and you want to be as lean as possible. In this tutorial, we only used AutoIdle on two applications, but imagine how much you could save with a large application with multiple contributors and new PRs created by the minute, each with a new review app. The cost of having apps running while not actively in use can be unnecessarily large and overwhelming. I hope [AutoIdle](https://autoidle.com/) is a tool you and your organization can leverage to reduce costs.
 
 Till next time,
 *Happy saving!*
