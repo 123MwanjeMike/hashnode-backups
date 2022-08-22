@@ -75,7 +75,6 @@ kubectl apply -f https://raw.githubusercontent.com/123MwanjeMike/k8s-rbac/main/a
 
 %[https://github.com/123MwanjeMike/k8s-rbac]
 
-<br>
 Next,create a rolebinding, ***app-dev-rolebinding***, of the `admin` role to the `app-dev` service account. Below is the manifest. 
 ```
 kind: RoleBinding
