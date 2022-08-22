@@ -74,6 +74,7 @@ kubectl apply -f https://raw.githubusercontent.com/123MwanjeMike/k8s-rbac/main/a
 ***Note:*** *We shall be creating the rest of the Kubernetes resources in this tutorial from the pre-written manifest files in [this repository](https://github.com/123MwanjeMike/k8s-rbac) as we have done above. However, you may also edit these manifests if you wish to create K8s resources tailored to your needs.*
 
 %[https://github.com/123MwanjeMike/k8s-rbac]
+
 <br>
 Next,create a rolebinding, ***app-dev-rolebinding***, of the `admin` role to the `app-dev` service account. Below is the manifest. 
 ```
