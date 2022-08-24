@@ -98,7 +98,7 @@ kubectl apply -f https://raw.githubusercontent.com/123MwanjeMike/k8s-rbac/main/r
 *Output:*
 ![Output of creating a rolebinding](https://cdn.hashnode.com/res/hashnode/image/upload/v1660333008852/wt0J1nH5e.png align="left")
 
-Our service account is now an admin within the 'dev-env` namespace. We can even go further and define access rights for it across the entire cluster. Let's say, basing on our DevOps engineer and application developer example we had at the start, that we want our application developers to view any resource cluster wide and even to use the Kubernetes dashboard. How we can we do this?
+Our service account is now an admin within the `dev-env` namespace. We can even go further and define access rights for it across the entire cluster. Let's say, basing on our DevOps engineer and application developer example we had at the start, that we want our application developers to view any resource cluster wide and even to use the Kubernetes dashboard. How we can we do this?
 
 ### Setting up RBAC for the entire cluster
 For the first part, we're in luck! Kubernetes has a default view clusterrole which can be used for viewing of all resources in a cluster; and so we shall just leverage this. We shall create a clusterrolebinding, `app-dev-view`, that does just that.
