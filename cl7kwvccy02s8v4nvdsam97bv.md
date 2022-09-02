@@ -24,4 +24,4 @@ Last but most definitely not the least, is a tool that calculates how much carbo
 
 Do you know of any other "Nuttertools" that somehow missed on this list, do share in the comments section. I'd love to learn from you too.
 
-Cheers!
+*Cheers!*
