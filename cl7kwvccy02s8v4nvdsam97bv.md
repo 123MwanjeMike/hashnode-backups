@@ -12,7 +12,7 @@ This W3C markup validator checks for areas of improvement and errors in your web
 
 ## 3. https://wave.webaim.org/
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1662146900427/7bAt1UmYq.png align="left")
-The internet has a very large number of users who are diverse in many of ways. This tool comes in handy if you wish to create a website that is accessible to a wide audience, including those with visual, audial, physical, and cognitive impairments. It helps you identify implementations that may not be favourable for impaired individuals and how these can be can corrected. n example is colour contrasts that may not be distinguishable by people with colour blindness as well as they would be for normal users. This way you can promote inclusivity even in your web solutions.
+The internet has a very large number of users who are diverse in many of ways. This tool comes in handy if you wish to create a website that is accessible to a wide audience, including those with visual, audial, physical, and cognitive impairments. It helps you identify implementations that may not be favourable for impaired individuals and how these can be can corrected. An example is colour contrasts that may not be distinguishable by people with colour blindness as well as they would be for normal users. This way you can promote inclusivity even in your web solutions.
 
 ## 4. https://www.whatsmydns.net/
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1662142900165/x6imoxLkG.png align="left")
@@ -20,7 +20,7 @@ Let's say you've gotten a new domain and/or made a couple of changes. These chan
 
 ## 5. https://www.websitecarbon.com/
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1662147385354/z0JE1rzak.png align="left")
-Last but most definitely not the least, is a tool that calculates how much carbon is released into the atmosphere whenever a user visits your website. You can then see how much your website contributes to global warming and also suggests how you can reduce the carbon footprint. If there's at least one take away from this article, I sure hope this be the one.
+Last but most definitely not the least, is a tool that calculates how much carbon is released into the atmosphere whenever a user visits your website. You can then see how much your website contributes to global warming and also suggests how you can reduce the carbon footprint. If there's at least one take away from this article, I sure hope this be it.
 
 Do you know of any other "Nuttertools" that somehow missed on this list, do share in the comments section. I'd love to learn from you too.
 
