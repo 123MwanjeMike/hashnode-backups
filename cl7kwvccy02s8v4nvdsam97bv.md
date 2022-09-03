@@ -20,8 +20,8 @@ Let's say you've gotten a new domain and/or made a couple of changes. These chan
 
 ## 5. https://www.websitecarbon.com/
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1662147385354/z0JE1rzak.png align="left")
-Last but most definitely not the least, is a tool that calculates how much carbon is released into the atmosphere whenever a user visits your website. You can then see how much your website contributes to global warming and also suggests how you can reduce the carbon footprint. If there's at least one take away from this article, I sure hope this be it.
+Last but most definitely not the least, is a tool that calculates how much carbon is released into the atmosphere whenever a user visits your website. You can then see how much your website contributes to global warming and also suggests how you can reduce the carbon footprint. If there's at least one take away from this article, I hope this be it.
 
-Do you know of any other "Nuttertools" that somehow missed on this list, do share in the comments section. I'd love to learn from you too.
+Do you know of any other "Nuttertools" that aren't on this list, do share in the comments section. I'd love to learn from you too.
 
 *Cheers!*
