@@ -22,6 +22,6 @@ If you haven't already, do checkout the official [Hacktoberfest website](https:/
 
 |![Hacktoberfest participants](https://cdn.hashnode.com/res/hashnode/image/upload/v1666723264829/j9_cngwnZ.jpg align="left")|
 |:---------------------------------------------------------------------------------:| 
-|*Hacktoberfest participants at an open source event at Outbox Hub in Uganda*|
+|*Hacktoberfest participants at an open source event at Outbox Hub*|
 
 *From us to you... Happy Hacking!*
