@@ -7,7 +7,7 @@
 
 Hacktoberfest is is open to anyone and everyone to make non-code, low-code, or code contributions to open source projects. You can contribute in which ever way(s) you are comfortable with.
 
-Personally, my focus was and will continue to be around local open source projects and awareness of the same during this year's Hacktoberfest. The interest in open source is general still generally low in my country Uganda and I hope that my contributions can improve this in one way or another.
+Personally, my focus has been and will continue to be around local open source projects and awareness of the same during this year's Hacktoberfest. The interest in open source is generally still low in Uganda and I hope that my contributions can improve this in one way or another.
 [This twitter thread](https://twitter.com/kayondoedward/status/1584646406211801089?s=20&t=gSes0diWZdvyPMGb4Bylew) has a couple of Ugandan open source projects you could consider contributing to too.
 
 Examples of non-code and low-code contributions to open-source projects include:
