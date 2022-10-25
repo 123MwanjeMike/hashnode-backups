@@ -8,7 +8,7 @@
 Hacktoberfest is is open to anyone and everyone to make non-code, low-code, or code contributions to open source projects. You can contribute in which ever way(s) you are comfortable with.
 
 Personally, my focus has been and will continue to be around local open source projects and awareness of the same during this year's Hacktoberfest. The interest in open source is generally still low in Uganda and I hope that my contributions can improve this in one way or another.
-[This twitter thread](https://twitter.com/kayondoedward/status/1584646406211801089?s=20&t=gSes0diWZdvyPMGb4Bylew) has a couple of Ugandan open source projects you could consider contributing to too.
+[This twitter thread](https://twitter.com/kayondoedward/status/1584646406211801089?s=20&t=gSes0diWZdvyPMGb4Bylew) has a couple of Ugandan open source projects you should consider contributing to.
 
 Examples of non-code and low-code contributions to open-source projects include:
 
@@ -18,7 +18,7 @@ Examples of non-code and low-code contributions to open-source projects include:
 |**Design**     |Testing                                 |User experience testing, Graphic design|
 |**Advocacy**|Talks, Technical blog posts|Social media, Blog posts                          |
 
-If you haven't already, do checkout the official [Hacktoberfest site](https://hacktoberfest.com/) to explore more or sign-up. Psst, there are prizes for all participants.
+If you haven't already, do checkout the official [Hacktoberfest website](https://hacktoberfest.com/) to find out more or even signup. Psst, there's a prize for everyone.
 
 |![Hacktoberfest participants](https://cdn.hashnode.com/res/hashnode/image/upload/v1666723264829/j9_cngwnZ.jpg align="left")|
 |:---------------------------------------------------------------------------------:| 
