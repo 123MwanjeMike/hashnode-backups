@@ -3,7 +3,7 @@
 > GitOps is a modern way to manage cloud-native systems that are powered by Kubernetes. It leverages a policy-as-code approach to define and manage every layer of the modern application stack - infrastructure, networking, application code, and the GitOps pipeline itself.  
 -- [Weaveworks](https://www.weave.works/technologies/gitops/#what-is-gitops)
 
-GitOps as a concept was established in 2017 by Weaveworks and has since been widely adopted in software delivery with a growing number of [CNCF](https://www.cncf.io/) tools being developed around it.
+GitOps as a concept was established in 2017 by Weaveworks and has since been widely adopted in software delivery with a growing number of CNCF tools being developed around it.
 
 |![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1669442879412/u3k0a0Cf1.png align="left")|
 |------------|
