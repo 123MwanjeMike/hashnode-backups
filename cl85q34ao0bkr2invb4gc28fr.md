@@ -1,4 +1,14 @@
-## Multitasking, something we copied from computers.
+---
+title: "Multitasking, something we copied from computers."
+seoTitle: "Multitasking, something we copied from computers."
+seoDescription: "However, there are times you can use multitasking to your advantage as a life hack, for example if you suffer from short attention spans and/or are procrast"
+datePublished: Sat Sep 17 2022 09:44:11 GMT+0000 (Coordinated Universal Time)
+cuid: cl85q34ao0bkr2invb4gc28fr
+slug: multitasking-something-we-copied-from-computers
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/0yaZcxwLCYw/upload/v1663407639160/iF6-uA8v1.jpeg
+tags: multitasking, multi-tasking
+
+---
 
 Multitasking is the concurrent execution of multiple tasks for a given time. This means that if a new task comes up amidst execution of an already running task, the new task is executed without having to wait for the first one to complete. The term originated from computing in the mid 1960s and we since then adopted it to describe a similar ability in humans. Whereas this is humanly possible as with computers, I want us to briefly explore the concept and see why we might want to avoid it. 
 
