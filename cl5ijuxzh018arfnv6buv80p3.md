@@ -1,4 +1,14 @@
-## Project management with Github Issues.
+---
+title: "Project management with Github Issues."
+seoTitle: "Project management with Github Issues."
+seoDescription: "Github Issues is a collection of Github products that include labels and milestones, issues, project boards, and projects(beta). All these products can be u"
+datePublished: Tue Sep 07 2021 05:29:04 GMT+0000 (Coordinated Universal Time)
+cuid: cl5ijuxzh018arfnv6buv80p3
+slug: project-management-with-github-issues-b5cc08ab2401
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1657651194560/yR_74aVgt.jpeg
+tags: github, projects, project-management
+
+---
 
 Photo by [Roman Synkevych](https://unsplash.com/@synkevych?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
