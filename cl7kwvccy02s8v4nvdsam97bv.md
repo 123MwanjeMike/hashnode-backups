@@ -1,4 +1,14 @@
-## Creating a new website? I have Nuttertools for you.
+---
+title: "Creating a new website? I have Nuttertools for you."
+seoTitle: "Creating a new website? I have Nuttertools for you."
+seoDescription: "to run performance, lighthouse, core web vitals, visual comparison, and trace route tests on your website. It can simulate a wide range of internet connecti"
+datePublished: Fri Sep 02 2022 20:10:55 GMT+0000 (Coordinated Universal Time)
+cuid: cl7kwvccy02s8v4nvdsam97bv
+slug: creating-a-new-website-i-have-nuttertools-for-you
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/noOXRT9gfQ8/upload/v1662149241897/lYoWqx9JV.jpeg
+tags: website, web-development, web, webdev, developer-tools
+
+---
 
 Ever played Grand Theft Auto? If you have, then you might be familiar with "Nuttertools". Nuttertools is one of the many cheat codes in the video game which gives your character a set of weapons. In this article, I'll share some cheat codes of my own with you. A special group of websites that will make you stand apart from any ordinary web developer. I call these my Nuttertools.
 
