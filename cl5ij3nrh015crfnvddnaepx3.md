@@ -1,4 +1,14 @@
-## Why is everyone shifting to the cloud?
+---
+title: "Why is everyone shifting to the cloud?"
+seoTitle: "Why is everyone shifting to the cloud?"
+seoDescription: "First off, the Cloud is a means of storing and accessing data and programs over the internet instead of your local server or personal computer. You probably"
+datePublished: Thu Aug 19 2021 14:03:08 GMT+0000 (Coordinated Universal Time)
+cuid: cl5ij3nrh015crfnvddnaepx3
+slug: why-is-everyone-shifting-to-the-cloud-29a09ed287bf
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1657651178934/WDFjn5Jue.jpeg
+tags: cloud-computing
+
+---
 
 Photo by [Sigmund](https://unsplash.com/@sigmund?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com?utm_source=medium&utm_medium=referral)
 
