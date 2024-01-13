@@ -1,4 +1,16 @@
-## Build a CI/CD pipeline with Heroku CI.
+---
+title: "Build a CI/CD pipeline with Heroku CI."
+seoTitle: "Build a CI/CD pipeline with Heroku CI."
+seoDescription: "Besides strong Dev/prod parity, using Heroku CI comes with many benefits key of which include;
+    Parallel Test Runs.
+    Browser tests and User Acceptance"
+datePublished: Fri Oct 01 2021 20:56:22 GMT+0000 (Coordinated Universal Time)
+cuid: cl5illg0m01eirfnvf37ffex4
+slug: build-a-cicd-pipeline-with-heroku-ci
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1657655705520/2oY2_CI21.jpeg
+tags: software-development, devops, agile, heroku, ci-cd
+
+---
 
 > Heroku CI automatically runs your app’s test suite with every push to your app’s GitHub repository, enabling you to easily review test results before merging or deploying changes to your codebase.
 
