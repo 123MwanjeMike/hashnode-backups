@@ -1,4 +1,14 @@
-## AutoIdle cuts your Heroku bill by auto-putting your staging and review apps to sleep
+---
+title: "AutoIdle cuts your Heroku bill by auto-putting your staging and review apps to sleep"
+seoTitle: "AutoIdle cuts your Heroku bill by auto-putting your staging and review"
+seoDescription: "However, with more applications running on Heroku is a growing bill even when no traffic is being served."
+datePublished: Wed Oct 27 2021 21:56:22 GMT+0000 (Coordinated Universal Time)
+cuid: cl5il9r4801derfnv5lsn5tj3
+slug: autoidle-cuts-your-heroku-bill-by-auto-putting-your-staging-and-review-apps-to-sleep
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1657654685248/RMY2liOv3C.jpeg
+tags: devops, heroku, ci-cd, addon, autoidle
+
+---
 
 From simple to complex applications, Heroku stands out as a deployment choice for many developers. This is because with Heroku, getting an application up and running is a very simple procedure that abstracts the underlying infrastructure and its scaling needs. However, with more applications running on Heroku is a growing bill even when no traffic is being served. [AutoIdle](https://autoidle.com/) is a Heroku add-on  that helps cut your Heroku bill by automatically putting your staging and review apps to sleep when you don't need them. In this article, we shall see how we can install AutoIdle on a Heroku app and review apps in a pipeline and observe how much we save.
 
