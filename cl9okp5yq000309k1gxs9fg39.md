@@ -1,4 +1,14 @@
-# For the month of October...
+---
+title: "For the month of October..."
+seoTitle: "For the month of October..."
+seoDescription: "Hacktoberfest is is open to anyone and everyone to make non-code, low-code, or code contributions to open source projects. You can contribute in which ever"
+datePublished: Tue Oct 25 2022 19:00:41 GMT+0000 (Coordinated Universal Time)
+cuid: cl9okp5yq000309k1gxs9fg39
+slug: for-the-month-of-october
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1666723252822/k3QlCaLiI.jpg
+tags: opensource, hacktoberfest-1, hacktoberfest2022
+
+---
 
 ...I am taking a break from blogging. Why? Cause it's that time of the year again. It's the month when we get to celebrate open source. ***Its the Hacktoberfest!***
 
