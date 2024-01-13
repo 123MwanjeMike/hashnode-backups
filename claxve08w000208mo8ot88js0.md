@@ -1,4 +1,14 @@
-# My experience with GitOps. So far...
+---
+title: "My experience with GitOps. So far..."
+seoTitle: "My experience with GitOps"
+seoDescription: "The states are also automatically synced to match the GitHub definition in line with the GitOps principle of Git as the source of truth. This ensures that c"
+datePublished: Sat Nov 26 2022 11:49:34 GMT+0000 (Coordinated Universal Time)
+cuid: claxve08w000208mo8ot88js0
+slug: my-experience-with-gitops-so-far
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/uRnWbdawNLo/upload/v1669353196078/ugz_NJafKT.jpeg
+tags: devops, ci-cd, gitops, argocd, airqo
+
+---
 
 > GitOps is a modern way to manage cloud-native systems that are powered by Kubernetes. It leverages a policy-as-code approach to define and manage every layer of the modern application stack - infrastructure, networking, application code, and the GitOps pipeline itself.  
 -- [Weaveworks](https://www.weave.works/technologies/gitops/#what-is-gitops)
