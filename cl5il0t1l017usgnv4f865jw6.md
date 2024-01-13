@@ -1,4 +1,14 @@
-## How to run API automated tests with Newman on CircleCI.
+---
+title: "How to run API automated tests with Newman on CircleCI."
+seoTitle: "How to run API automated tests with Newman on CircleCI."
+seoDescription: "Whereas there may be various tools and libraries to test APIs built in a specific language, automation testing with Newman cuts across and thus the steps fo"
+datePublished: Sat Jan 15 2022 17:10:48 GMT+0000 (Coordinated Universal Time)
+cuid: cl5il0t1l017usgnv4f865jw6
+slug: how-to-run-api-automated-tests-with-newman-on-circleci
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1657654633684/-fbJsaH2U.jpeg
+tags: postman, apis, testing, circleci, newman
+
+---
 
 Postman is a great tool not only for building, but also for testing APIs. In this post, we shall look at how to use Newman, Postman’s command-line collection runner, to run automated tests for an API in a CI/CD pipeline running on CicleCI. Whereas there may be various tools and libraries to test APIs built in a specific language, automation testing with Newman cuts across and thus the steps followed herein can be followed to test an API developed in any programming language. That stated, we shall use a Node.js API in this post.
 
