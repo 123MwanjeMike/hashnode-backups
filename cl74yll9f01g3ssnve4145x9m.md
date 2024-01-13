@@ -1,4 +1,14 @@
-## Set up Kubernetes role based access control
+---
+title: "Set up Kubernetes role based access control"
+seoTitle: "Set up Kubernetes role based access control"
+seoDescription: "Our service account is now an admin within the 'dev-env` namespace. We can even go further and define access rights for it across the entire cluster. Let's"
+datePublished: Mon Aug 22 2022 16:15:01 GMT+0000 (Coordinated Universal Time)
+cuid: cl74yll9f01g3ssnve4145x9m
+slug: set-up-kubernetes-role-based-access-control
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/7GfRwb78YWs/upload/v1661008450696/o_ngBHhdq.jpeg
+tags: kubernetes, k8s, rbac, role-based-access-control, clusterrolebindings
+
+---
 
 Kubernetes(K8s) role-based access control is a powerful tool in restricting access to resources within a Kubernetes cluster. In this post, we shall briefly discuss what role-based access control is, and how to set it up in Kubernetes. I promise, it's not as long a process as you may think.
 
