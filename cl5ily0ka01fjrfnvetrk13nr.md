@@ -1,4 +1,14 @@
-## How different is CommonJs require from ES6 import?
+---
+title: "How different is CommonJs require from ES6 import?"
+seoTitle: "How different is CommonJs require from ES6 import?"
+seoDescription: "CommonJs is the original and default module system of Node.js which uses require and module.exports."
+datePublished: Sat Aug 28 2021 09:28:36 GMT+0000 (Coordinated Universal Time)
+cuid: cl5ily0ka01fjrfnvetrk13nr
+slug: how-different-is-commonjs-require-from-es6-import
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1657655579463/tJ3qiRcPt.jpeg
+tags: javascript, es6, require, commonjs, import
+
+---
 
 In JavaScript, you can use either ECMAScript 6(ES6) modules or CommonJs modules in your project and there are a few differences between these that do affect how your program modules are loaded. In this article, I explore how each works and how it may affect your program execution.
 
