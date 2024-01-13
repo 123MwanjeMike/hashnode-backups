@@ -1,4 +1,14 @@
-## What is best platform for tech blogging and building a developer community?
+---
+title: "What is best platform for tech blogging and building a developer community?"
+seoTitle: "If you were to choose one platform to blog on, which one would it be a"
+seoDescription: "on how involved you want to be with the platform. However, if you are starting out and are looking to build an organic audience, then I would suggest"
+datePublished: Thu Jul 21 2022 20:35:24 GMT+0000 (Coordinated Universal Time)
+cuid: cl5vht6n103toisnvaif24m5t
+slug: what-is-best-platform-for-tech-blogging-and-building-a-developer-community
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/YK0HPwWDJ1I/upload/v1658435472880/tExbmoypa.jpeg
+tags: writing, medium, blogging, hashnode, technical-writing-1
+
+---
 
 As a technology professional, I have always been passionate about sharing knowledge with others. With the rise of blogs and social media, I realized that there are many other benefits to blogging besides just sharing knowledge. For example, by blogging, I am able to build visibility and grow an audience. Additionally, documenting my work and experiences can be a valuable resource for myself in the future.
 
