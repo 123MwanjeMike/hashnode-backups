@@ -1,4 +1,13 @@
-## Plan your quarter and the week ahead.
+---
+title: "Plan your quarter and the week ahead."
+seoTitle: "Plan your quarter and the week ahead."
+seoDescription: "Planning is a fundamental cognitive skill that forms part of our executive functions. It keeps us in line with our goals and focused on the bigger picture."
+datePublished: Sat Jul 09 2022 15:10:46 GMT+0000 (Coordinated Universal Time)
+cuid: cl5ik8d9q015bsgnvfiie2wcu
+slug: plan-your-quarter-and-the-week-ahead-d57f1cf566e9
+tags: career, planning, soft-skills, personal-development, career-coach
+
+---
 
 Zealous. Psyched up. Determined to do the extraordinary. It’s a fresh start and we are ready to tap into the potential that comes with a new year. We set goals for it but before you know it, we’re halfway through the year and there’s nothing to show for it. Why is this the case though? There is a couple of factors that can lead to this but I will share about one in particular herein: Planning.
 
